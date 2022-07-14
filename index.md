@@ -4,7 +4,7 @@
 
 ## My Dog, Lilah
 [IMG_0733](https://user-images.githubusercontent.com/107705017/178889206-247f5686-44de-41b8-94c4-b9dda143c95a.JPG)
-<img src="img/"IMG_0733.JPG"
+<img src="IMG_0733.JPG" class="img-responsive" alt=""> </div>
 
 ### Header 3
 
