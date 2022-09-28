@@ -7,6 +7,5 @@ Megan Boyle is a current medical student at [Drexel University College of Medici
 ## My Dog, Lilah
 <img src="IMG_0733.JPG" class="img-responsive" alt=""> </div>
 
-### Header 3
 
 
